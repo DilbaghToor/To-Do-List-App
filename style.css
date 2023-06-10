@@ -52,7 +52,9 @@ input {
     font-weight: 14px;
 }
 
+
 button {
+    color: #fff;
     border: none;
     outline: none;
     padding: 16px 50px;
@@ -61,3 +63,5 @@ button {
     cursor: pointer;
     border-radius: 40px;
 }
+
+
